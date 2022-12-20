@@ -1,6 +1,6 @@
 using System; 
 
-namespace meret;  
+namespace nada;  
 
 public class people{
     private string _name;
